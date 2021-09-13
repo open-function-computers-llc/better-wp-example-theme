@@ -1,0 +1,15 @@
+{
+    "name": "open-function-computers-llc/wp-theme",
+    "description": "A starting point to make working with better-wordpress easier",
+    "require": {
+        "open-function-computers-llc/better-wordpress": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Helpers\\": "helpers/"
+        }
+    },
+    "license": "MIT",
+    "keywords": ["wordpress", "handlebars", "theme"],
+    "minimum-stability": "stable"
+}
