@@ -1,6 +1,6 @@
 # The 👕 Store
 <a href="https://github.com/open-function-computers-llc/better-wordpress">
-<img width="250" align="right" src="https://better-wordpress.ofco.cloud/images/branding/bw.png">
+<img width="250" align="right" src="https://better-wordpress.ofco.cloud/images/branding/horizontal-logo.png">
 </a>
 
 An example WordPress theme for your convenience, made with __[better-wordpress](https://github.com/open-function-computers-llc/better-wordpress)__.   
